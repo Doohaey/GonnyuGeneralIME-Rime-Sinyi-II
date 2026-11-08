@@ -1,0 +1,258 @@
+{
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "size": 35149
+    },
+    {
+      "path": "default.custom.yaml",
+      "sha256": "5d81fa554d6131f9e7240e42150b99508add9483dcbe4d2f727e1cb56c04a7fa",
+      "size": 309
+    },
+    {
+      "path": "gannyu_sinyi.dict.yaml",
+      "sha256": "0df835c0abb450c860107a5e549b7eaad2b3cfe708a5421b29999bf6faccb674",
+      "size": 358090
+    },
+    {
+      "path": "gannyu_sinyi_new_rel.dict.yaml",
+      "sha256": "337985f03e07209431c366c5040e25c0f2695419276f0d31286885de9bcbd756",
+      "size": 354288
+    },
+    {
+      "path": "gannyu_sinyi_old_rel.dict.yaml",
+      "sha256": "c1b6a018ad060c591122038aeea197a6f09cba8e31af6d10d498fa63ef9b402d",
+      "size": 355070
+    },
+    {
+      "path": "konny_sinyi_II.schema.yaml",
+      "sha256": "9e580c23a54ae0df137c8758c8549653d759b8dd91b236f39974931aca8f37f4",
+      "size": 20074
+    },
+    {
+      "path": "konny_sinyi_II_both_norel.schema.yaml",
+      "sha256": "cf3a20de850d31b11ef9f2e6b83c46225e8f13835aa377fa4a50ba92019acb53",
+      "size": 29096
+    },
+    {
+      "path": "konny_sinyi_II_both_norel_gan.schema.yaml",
+      "sha256": "ab6718b2a1f78b9b7661ffe7cc056f637ca47aa99376fb839ebac396ed2dbe29",
+      "size": 29126
+    },
+    {
+      "path": "konny_sinyi_II_both_norel_gan_nowenbai.schema.yaml",
+      "sha256": "4dc26104079ed77682e59912e4b562084986baf1d24d842620a0009f4f48b047",
+      "size": 29145
+    },
+    {
+      "path": "konny_sinyi_II_both_norel_nowenbai.schema.yaml",
+      "sha256": "2d925b60a158ee69ef5f589e31e911ddb7a0716b021530e29144172000d6b4bf",
+      "size": 29115
+    },
+    {
+      "path": "konny_sinyi_II_gan.schema.yaml",
+      "sha256": "46a7a823de559f63cff03c6ad1799ad7f32d65d60eb89f135ccf8ed589ff84db",
+      "size": 17742
+    },
+    {
+      "path": "konny_sinyi_II_gan_nowenbai.schema.yaml",
+      "sha256": "b60f1ac925aa4d167bec0edfb73431c864db6aec8fc523929dcc351528ab284e",
+      "size": 17761
+    },
+    {
+      "path": "konny_sinyi_II_new_norel.schema.yaml",
+      "sha256": "2f38b778e0d07d3f81a7cc0dd148e65f48621197632c2e7ea5194316b5abe57f",
+      "size": 29110
+    },
+    {
+      "path": "konny_sinyi_II_new_norel_gan.schema.yaml",
+      "sha256": "598d5e8ba633f8e8bea70260793221ae682480308333e06e0b688f3dfdb8a51c",
+      "size": 29140
+    },
+    {
+      "path": "konny_sinyi_II_new_norel_gan_nowenbai.schema.yaml",
+      "sha256": "008ff7938a82c2047a706efa52995a8c1c40d0a9f6564c1a5e1b934d21ccf0b5",
+      "size": 29159
+    },
+    {
+      "path": "konny_sinyi_II_new_norel_nowenbai.schema.yaml",
+      "sha256": "31ec9762cc60eaffadac507c89f81cebf66e6da84f1974b44f4316bbfb9ea3f6",
+      "size": 29129
+    },
+    {
+      "path": "konny_sinyi_II_new_rel.schema.yaml",
+      "sha256": "a8fd273e47b26782912bed7f9aad2ba036387c751c54f5f29c0e6901d7510d35",
+      "size": 17744
+    },
+    {
+      "path": "konny_sinyi_II_new_rel_gan.schema.yaml",
+      "sha256": "85e4df9bb404504610e4962d4309a372070bd1d5933dafddd31c73b50643fcb7",
+      "size": 17774
+    },
+    {
+      "path": "konny_sinyi_II_new_rel_gan_nowenbai.schema.yaml",
+      "sha256": "733393aa7c9d1de3fec7eea2de2f096da9f2df11442b3b843c09c884bc2948de",
+      "size": 17793
+    },
+    {
+      "path": "konny_sinyi_II_new_rel_nowenbai.schema.yaml",
+      "sha256": "c7756c9d322354b7ccbc5fa750fd687a87f2f892b84d84397ba8d17bfab6bc3a",
+      "size": 17763
+    },
+    {
+      "path": "konny_sinyi_II_nowenbai.schema.yaml",
+      "sha256": "284011f89a1b2faefb446fb6fce54f48bec7cc5a320186c12a5d49ff131ce6e8",
+      "size": 17731
+    },
+    {
+      "path": "konny_sinyi_II_old_norel.schema.yaml",
+      "sha256": "76a0f7311dbdecd9bdcb4786206ba9a0bf2595e44affa47f663412d9caed1738",
+      "size": 29110
+    },
+    {
+      "path": "konny_sinyi_II_old_norel_gan.schema.yaml",
+      "sha256": "3432cb436f368f77d7ca2642a8456823989424aeca9f50f6adc2129d4d7e5981",
+      "size": 29140
+    },
+    {
+      "path": "konny_sinyi_II_old_norel_gan_nowenbai.schema.yaml",
+      "sha256": "8a45651f56771a19ff26c360ce44f9085fdad83ea509a15aa23aa3938ac48acd",
+      "size": 29159
+    },
+    {
+      "path": "konny_sinyi_II_old_norel_nowenbai.schema.yaml",
+      "sha256": "6f25a771cab5a866fa46f2fd15635eb3a20e604f6011668d0f97ef580472c571",
+      "size": 29129
+    },
+    {
+      "path": "konny_sinyi_II_old_rel.schema.yaml",
+      "sha256": "cddb184ceffe5326659505c1ac1bc8cfdf63ee759a9c10b130154978ab416e65",
+      "size": 17744
+    },
+    {
+      "path": "konny_sinyi_II_old_rel_gan.schema.yaml",
+      "sha256": "de3e8e751702ee852ce859a925f15d0d3ebc6f8702ce227560eec6ea5f16ea22",
+      "size": 17774
+    },
+    {
+      "path": "konny_sinyi_II_old_rel_gan_nowenbai.schema.yaml",
+      "sha256": "70d5d88096b324a3d70419f1e56abbdf261091b5553db83e754130364039f56b",
+      "size": 17793
+    },
+    {
+      "path": "konny_sinyi_II_old_rel_nowenbai.schema.yaml",
+      "sha256": "24b6ad0dd97883c389c941efcc7111c59b2f9f7c002f0488bcef6eca5a7edd3c",
+      "size": 17763
+    },
+    {
+      "path": "lua/gannyu_annotation_filter.lua",
+      "sha256": "7ba31dc81afd555178813466c3623d5cd9c524023c8caeb6a23c6b53c311955d",
+      "size": 3840
+    },
+    {
+      "path": "lua/gannyu_annotation_store.lua",
+      "sha256": "f0396605b71b38d2d3fc61855c5343914535e7e7e0e741ab8b56e43737fd3bc3",
+      "size": 4361
+    },
+    {
+      "path": "lua/gannyu_data_lifecycle.lua",
+      "sha256": "931aa3acddb26ea289ab72d20c36b45d75169c593c31e898c9e35d4c09d7501b",
+      "size": 1109
+    },
+    {
+      "path": "lua/gannyu_input_options.lua",
+      "sha256": "1f7fc6dcae7bf9886c37933a6263fdf36d04f10bcb95b775d069a542d8c2d0b4",
+      "size": 2061
+    },
+    {
+      "path": "lua/gannyu_options_translator.lua",
+      "sha256": "30cd5a22d19424ec5964f3ee37ba4c38a61e0eb14b1574be594b8b52f23dc860",
+      "size": 1286
+    },
+    {
+      "path": "lua/gannyu_relation_filter.lua",
+      "sha256": "b250b7ab943ed2d3d5a3acd5357e412528d592b7447a8573b95f2d8640eed0ea",
+      "size": 1552
+    },
+    {
+      "path": "lua/gannyu_single_char_filter.lua",
+      "sha256": "0af8da52773280473aadcc7d5ac657e68232dbdf590963cc487219538423ffb6",
+      "size": 1616
+    },
+    {
+      "path": "lua/gannyu_sinyi_annotations.bin",
+      "sha256": "24e091d0a37da2f7b2863e490198043c862536e803598cc4dfad97dd3c7b3c7e",
+      "size": 207857
+    },
+    {
+      "path": "lua/gannyu_sinyi_both_norel_annotations.bin",
+      "sha256": "506ec9d8c82436ebcef5154ecb12709211083b39b1260b99bce32ccf7dc44b35",
+      "size": 130090
+    },
+    {
+      "path": "lua/gannyu_sinyi_both_norel_data.lua",
+      "sha256": "344d2d16dc41987b28071dcf4fd88d7222112dea80e8952a357d74c693bd8e41",
+      "size": 181959
+    },
+    {
+      "path": "lua/gannyu_sinyi_data.lua",
+      "sha256": "2e84d46a4bd4064d78573b12be5296ccc5a72b41f74dcc81671e7ba53a8a38a7",
+      "size": 209772
+    },
+    {
+      "path": "lua/gannyu_sinyi_new_norel_annotations.bin",
+      "sha256": "afe3febd3e32251940b5d766d780a7dddf939a476a1c88b880101dd62610ba83",
+      "size": 128652
+    },
+    {
+      "path": "lua/gannyu_sinyi_new_norel_data.lua",
+      "sha256": "962bb9bdad0e03f896d56b0b84d4abb83fc6534555e61e69b268e98a38d96f6e",
+      "size": 181834
+    },
+    {
+      "path": "lua/gannyu_sinyi_new_rel_annotations.bin",
+      "sha256": "aa294f8e5728e33382136164832a29f35103662ca3ebb509c052d9be60e0960f",
+      "size": 206198
+    },
+    {
+      "path": "lua/gannyu_sinyi_new_rel_data.lua",
+      "sha256": "7f2d649db711854fbd927e0d36bde4f263eb65ebde0783fed8019b2b755007f5",
+      "size": 209656
+    },
+    {
+      "path": "lua/gannyu_sinyi_old_norel_annotations.bin",
+      "sha256": "20ac7e563e4cc9c9b36544c09d99acd90a183e1e23307fa80672c75fba4b4639",
+      "size": 129874
+    },
+    {
+      "path": "lua/gannyu_sinyi_old_norel_data.lua",
+      "sha256": "897f696d60100c79c8223acb310eee500471ea2f6e71ecce44aadca648908d1c",
+      "size": 181980
+    },
+    {
+      "path": "lua/gannyu_sinyi_old_rel_annotations.bin",
+      "sha256": "b8806f76267999443e6a6b2dec3822f65988d8ba2dd4b558a3087b7888a57ce2",
+      "size": 207446
+    },
+    {
+      "path": "lua/gannyu_sinyi_old_rel_data.lua",
+      "sha256": "e2c448fe8fba1ee476407e3de91935fc50b2ea97fae45709ac4bcc7493e2eb3f",
+      "size": 209802
+    },
+    {
+      "path": "lua/konny_sinyi_scheme2.lua",
+      "sha256": "816232dcefa3ed48da3aacd05b241ddc6aacad564b8d538b45b9535f3149185c",
+      "size": 14357
+    }
+  ],
+  "product_version": "1.3.0",
+  "regions": [
+    {
+      "id": "sinyi",
+      "name_zh": "新余市",
+      "schema_id": "konny_sinyi_II"
+    }
+  ],
+  "schema_version": "1.3.0"
+}
