@@ -2,7 +2,7 @@
 schema:
   schema_id: konny_sinyi_II
   name: 赣语－新余市（二式·组合式）
-  version: "1.3.0"
+  version: "1.3.1"
   dependencies:
     - konny_sinyi_II_nowenbai
     - konny_sinyi_II_gan
@@ -438,17 +438,17 @@ speller:
     - derive/^Gngêk$/Fngeh/
     - derive/^Gngên$/Fngen/
     - derive/^Gngêu$/Fngeu/
-    - derive/^Gni$/Fnj/
+    - derive/^Gni$/Fnji/
     - derive/^Gnia$/Fnja/
     - derive/^Gniaik$/Fnjaih/
     - derive/^Gniak$/Fnjah/
     - derive/^Gniang$/Fnjang/
     - derive/^Gniek$/Fnjerh/
-    - derive/^Gnin$/Fnjn/
+    - derive/^Gnin$/Fnjin/
     - derive/^Gnio$/Fnjo/
     - derive/^Gniok$/Fnjoh/
     - derive/^Gniong$/Fnjong/
-    - derive/^Gnit$/Fnjt/
+    - derive/^Gnit$/Fnjit/
     - derive/^Gniu$/Fnju/
     - derive/^Gniuk$/Fnjuh/
     - derive/^Gniên$/Fnjen/

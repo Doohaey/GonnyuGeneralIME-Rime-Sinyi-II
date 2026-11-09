@@ -12,138 +12,138 @@
     },
     {
       "path": "gannyu_sinyi.dict.yaml",
-      "sha256": "0df835c0abb450c860107a5e549b7eaad2b3cfe708a5421b29999bf6faccb674",
+      "sha256": "a5abc1a14261501cc9650e6ebb6b224bd57ca59c40393ed2295147d81f5f4443",
       "size": 358090
     },
     {
       "path": "gannyu_sinyi_new_rel.dict.yaml",
-      "sha256": "337985f03e07209431c366c5040e25c0f2695419276f0d31286885de9bcbd756",
+      "sha256": "a3540d83b08cc10d770d344d069a59bae7d8d5f739ecd462237428bece666127",
       "size": 354288
     },
     {
       "path": "gannyu_sinyi_old_rel.dict.yaml",
-      "sha256": "c1b6a018ad060c591122038aeea197a6f09cba8e31af6d10d498fa63ef9b402d",
+      "sha256": "7bd084dfe443bbb241500d60d61da19cb1e2b07083f87f54f6b4d0d732e05870",
       "size": 355070
     },
     {
       "path": "konny_sinyi_II.schema.yaml",
-      "sha256": "9e580c23a54ae0df137c8758c8549653d759b8dd91b236f39974931aca8f37f4",
-      "size": 20074
+      "sha256": "cd38461752f2e782df5e5ad844da2bbc1fe5b8e30f43c674d816a3363397aedd",
+      "size": 20077
     },
     {
       "path": "konny_sinyi_II_both_norel.schema.yaml",
-      "sha256": "cf3a20de850d31b11ef9f2e6b83c46225e8f13835aa377fa4a50ba92019acb53",
-      "size": 29096
+      "sha256": "c12965b4e0bf8488c81f3236bc27c0825d7b45a88014257b1bfed24a86377967",
+      "size": 29099
     },
     {
       "path": "konny_sinyi_II_both_norel_gan.schema.yaml",
-      "sha256": "ab6718b2a1f78b9b7661ffe7cc056f637ca47aa99376fb839ebac396ed2dbe29",
-      "size": 29126
+      "sha256": "029f86ccad65b69ae475336f7eb985dbb46aa26aea11e57a35a9c1da7a106ff9",
+      "size": 29129
     },
     {
       "path": "konny_sinyi_II_both_norel_gan_nowenbai.schema.yaml",
-      "sha256": "4dc26104079ed77682e59912e4b562084986baf1d24d842620a0009f4f48b047",
-      "size": 29145
+      "sha256": "510cc625f9807cd1664b6d56b99c332c3db7cc55ac7bc05a787ae9868c0cc03b",
+      "size": 29148
     },
     {
       "path": "konny_sinyi_II_both_norel_nowenbai.schema.yaml",
-      "sha256": "2d925b60a158ee69ef5f589e31e911ddb7a0716b021530e29144172000d6b4bf",
-      "size": 29115
+      "sha256": "31930a767c4d2891941b68f143f85a15ff31d7b524e230faa6035df46d3e9acf",
+      "size": 29118
     },
     {
       "path": "konny_sinyi_II_gan.schema.yaml",
-      "sha256": "46a7a823de559f63cff03c6ad1799ad7f32d65d60eb89f135ccf8ed589ff84db",
-      "size": 17742
+      "sha256": "ee1bcd52010a3a8de7c455fd1362754c1e2e912745a4bc673c362b3732e8d272",
+      "size": 17745
     },
     {
       "path": "konny_sinyi_II_gan_nowenbai.schema.yaml",
-      "sha256": "b60f1ac925aa4d167bec0edfb73431c864db6aec8fc523929dcc351528ab284e",
-      "size": 17761
+      "sha256": "243937ee324e8e479080238fce91867380776de211a21f0eb60d7df36c8baeed",
+      "size": 17764
     },
     {
       "path": "konny_sinyi_II_new_norel.schema.yaml",
-      "sha256": "2f38b778e0d07d3f81a7cc0dd148e65f48621197632c2e7ea5194316b5abe57f",
-      "size": 29110
+      "sha256": "9972e01c95701ea8bd82f8794bf5d040eb85c444a388792566be131680f667b4",
+      "size": 29113
     },
     {
       "path": "konny_sinyi_II_new_norel_gan.schema.yaml",
-      "sha256": "598d5e8ba633f8e8bea70260793221ae682480308333e06e0b688f3dfdb8a51c",
-      "size": 29140
+      "sha256": "51ae7e4fd5bfe3a0e1dc577a17ca6541bbee31f6125ec53ed2a546e40172a2b2",
+      "size": 29143
     },
     {
       "path": "konny_sinyi_II_new_norel_gan_nowenbai.schema.yaml",
-      "sha256": "008ff7938a82c2047a706efa52995a8c1c40d0a9f6564c1a5e1b934d21ccf0b5",
-      "size": 29159
+      "sha256": "370c1f2fc23a98a3c42abf21fd38ff29e74b7e6c4cb26f166e31a0e54652bc7c",
+      "size": 29162
     },
     {
       "path": "konny_sinyi_II_new_norel_nowenbai.schema.yaml",
-      "sha256": "31ec9762cc60eaffadac507c89f81cebf66e6da84f1974b44f4316bbfb9ea3f6",
-      "size": 29129
+      "sha256": "c47ab6f04bff2cd8ee5af5b81e2841f14faf02c5a089548640d8792dc67c4d5a",
+      "size": 29132
     },
     {
       "path": "konny_sinyi_II_new_rel.schema.yaml",
-      "sha256": "a8fd273e47b26782912bed7f9aad2ba036387c751c54f5f29c0e6901d7510d35",
-      "size": 17744
+      "sha256": "819b8cae7fe5b1749ed0610f35f54ba7f7a3576028014382aed09a4dcc06d1f5",
+      "size": 17747
     },
     {
       "path": "konny_sinyi_II_new_rel_gan.schema.yaml",
-      "sha256": "85e4df9bb404504610e4962d4309a372070bd1d5933dafddd31c73b50643fcb7",
-      "size": 17774
+      "sha256": "b19a3e2ceba2eb0b09abfba96cabe1e1e465b7ce3eb4b43f73c36e5497313f7a",
+      "size": 17777
     },
     {
       "path": "konny_sinyi_II_new_rel_gan_nowenbai.schema.yaml",
-      "sha256": "733393aa7c9d1de3fec7eea2de2f096da9f2df11442b3b843c09c884bc2948de",
-      "size": 17793
+      "sha256": "2cffaf2401f03da4e292da331a1b0877c2cae03249311b7612d53b05d3b4502e",
+      "size": 17796
     },
     {
       "path": "konny_sinyi_II_new_rel_nowenbai.schema.yaml",
-      "sha256": "c7756c9d322354b7ccbc5fa750fd687a87f2f892b84d84397ba8d17bfab6bc3a",
-      "size": 17763
+      "sha256": "5f222676334076e804b3d5632ab7d761f1f47a7fa2c6d2444d532bcd68fde058",
+      "size": 17766
     },
     {
       "path": "konny_sinyi_II_nowenbai.schema.yaml",
-      "sha256": "284011f89a1b2faefb446fb6fce54f48bec7cc5a320186c12a5d49ff131ce6e8",
-      "size": 17731
+      "sha256": "8014651af0d5b0baaf196714c071b1cfcba7d0dbba68a95c19b2b508b9c9a85b",
+      "size": 17734
     },
     {
       "path": "konny_sinyi_II_old_norel.schema.yaml",
-      "sha256": "76a0f7311dbdecd9bdcb4786206ba9a0bf2595e44affa47f663412d9caed1738",
-      "size": 29110
+      "sha256": "4f688a2b6a0c5423043a38c15105258c0d40ac21b82c2ab25064103f0b2c2b4b",
+      "size": 29113
     },
     {
       "path": "konny_sinyi_II_old_norel_gan.schema.yaml",
-      "sha256": "3432cb436f368f77d7ca2642a8456823989424aeca9f50f6adc2129d4d7e5981",
-      "size": 29140
+      "sha256": "069058f5b320275fe6d28a5ca3786d1c9e5aca6eec523294833062353ba58102",
+      "size": 29143
     },
     {
       "path": "konny_sinyi_II_old_norel_gan_nowenbai.schema.yaml",
-      "sha256": "8a45651f56771a19ff26c360ce44f9085fdad83ea509a15aa23aa3938ac48acd",
-      "size": 29159
+      "sha256": "01de2efb72098d7b38b66be94ea10744710b785a43f5c214f51d67eca52ddb0a",
+      "size": 29162
     },
     {
       "path": "konny_sinyi_II_old_norel_nowenbai.schema.yaml",
-      "sha256": "6f25a771cab5a866fa46f2fd15635eb3a20e604f6011668d0f97ef580472c571",
-      "size": 29129
+      "sha256": "98c8eb53216c946fbda2a907cf54085bc4e932ef0f687c0c052dba45af4cff94",
+      "size": 29132
     },
     {
       "path": "konny_sinyi_II_old_rel.schema.yaml",
-      "sha256": "cddb184ceffe5326659505c1ac1bc8cfdf63ee759a9c10b130154978ab416e65",
-      "size": 17744
+      "sha256": "665c412025f3d0b22e23fec4f02915689e853a558ce0cfa0bee05175c8a76172",
+      "size": 17747
     },
     {
       "path": "konny_sinyi_II_old_rel_gan.schema.yaml",
-      "sha256": "de3e8e751702ee852ce859a925f15d0d3ebc6f8702ce227560eec6ea5f16ea22",
-      "size": 17774
+      "sha256": "5146d733b659a2602d818409d1fd08fcab1da4fdb6ecb76b0ad2a81a402d1d50",
+      "size": 17777
     },
     {
       "path": "konny_sinyi_II_old_rel_gan_nowenbai.schema.yaml",
-      "sha256": "70d5d88096b324a3d70419f1e56abbdf261091b5553db83e754130364039f56b",
-      "size": 17793
+      "sha256": "d6569dfa137afd2916cd8a47ba49587e0d704448fcb5ea9073f7e722e37d22d9",
+      "size": 17796
     },
     {
       "path": "konny_sinyi_II_old_rel_nowenbai.schema.yaml",
-      "sha256": "24b6ad0dd97883c389c941efcc7111c59b2f9f7c002f0488bcef6eca5a7edd3c",
-      "size": 17763
+      "sha256": "252d53db9f0cfbf7e34039687c42c3e257075d5c9d34b4dee983ab408a1c72bc",
+      "size": 17766
     },
     {
       "path": "lua/gannyu_annotation_filter.lua",
@@ -242,11 +242,11 @@
     },
     {
       "path": "lua/konny_sinyi_scheme2.lua",
-      "sha256": "816232dcefa3ed48da3aacd05b241ddc6aacad564b8d538b45b9535f3149185c",
-      "size": 14357
+      "sha256": "11dbbc96ad59506c6589c2f84e4f4a6c48fa0e61f14cb3ce225b0c10b6306978",
+      "size": 14360
     }
   ],
-  "product_version": "1.3.0",
+  "product_version": "1.3.1",
   "regions": [
     {
       "id": "sinyi",
@@ -254,5 +254,5 @@
       "schema_id": "konny_sinyi_II"
     }
   ],
-  "schema_version": "1.3.0"
+  "schema_version": "1.3.1"
 }
