@@ -625,29 +625,29 @@ speller:
     - derive/^Gtên$/Fthen/
     - derive/^Gtêt$/Fthet/
     - derive/^Gtêu$/Ftheu/
-    - derive/^Gwa$/Fua/
-    - derive/^Gwai$/Fuai/
-    - derive/^Gwaik$/Fuaih/
-    - derive/^Gwak$/Fuah/
-    - derive/^Gwan$/Fuan/
-    - derive/^Gwang$/Fuang/
-    - derive/^Gwat$/Fuat/
-    - derive/^Gwei$/Fueri/
-    - derive/^Gwi$/Fui/
-    - derive/^Gwo$/Fuo/
-    - derive/^Gwoi$/Fuoi/
-    - derive/^Gwok$/Fuoh/
-    - derive/^Gwon$/Fuon/
-    - derive/^Gwong$/Fuong/
-    - derive/^Gwot$/Fuot/
-    - derive/^Gwu$/Fu/
-    - derive/^Gwuk$/Fuh/
-    - derive/^Gwun$/Fun/
-    - derive/^Gwung$/Fung/
-    - derive/^Gwut$/Fut/
-    - derive/^Gwê$/Fue/
-    - derive/^Gwêk$/Fueh/
-    - derive/^Gwêu$/Fueu/
+    - derive/^Gwa$/Fwa/
+    - derive/^Gwai$/Fwai/
+    - derive/^Gwaik$/Fwaih/
+    - derive/^Gwak$/Fwah/
+    - derive/^Gwan$/Fwan/
+    - derive/^Gwang$/Fwang/
+    - derive/^Gwat$/Fwat/
+    - derive/^Gwi$/Fwi/
+    - derive/^Gwo$/Fwo/
+    - derive/^Gwoi$/Fwoi/
+    - derive/^Gwok$/Fwoh/
+    - derive/^Gwon$/Fwon/
+    - derive/^Gwong$/Fwong/
+    - derive/^Gwot$/Fwot/
+    - derive/^Gwu$/Fwu/
+    - derive/^Gwui$/Fwui/
+    - derive/^Gwuk$/Fwuh/
+    - derive/^Gwun$/Fwun/
+    - derive/^Gwung$/Fwung/
+    - derive/^Gwut$/Fwut/
+    - derive/^Gwê$/Fwe/
+    - derive/^Gwêk$/Fweh/
+    - derive/^Gwêu$/Fweu/
     - derive/^Gxi$/Fxi/
     - derive/^Gxiang$/Fxiang/
     - derive/^Gxin$/Fxin/
@@ -660,34 +660,34 @@ speller:
     - derive/^Gxyuk$/Fxyh/
     - derive/^Gxyuon$/Fxyon/
     - derive/^Gxyuot$/Fxyot/
-    - derive/^Gya$/Fia/
-    - derive/^Gyaik$/Fiaih/
-    - derive/^Gyak$/Fiah/
-    - derive/^Gyang$/Fiang/
-    - derive/^Gyek$/Fierh/
-    - derive/^Gyet$/Fiert/
-    - derive/^Gyi$/Fi/
-    - derive/^Gyik$/Fih/
-    - derive/^Gyin$/Fin/
-    - derive/^Gyit$/Fit/
-    - derive/^Gyiu$/Fiu/
-    - derive/^Gyiuk$/Fiuh/
-    - derive/^Gyo$/Fio/
-    - derive/^Gyok$/Fioh/
-    - derive/^Gyong$/Fiong/
-    - derive/^Gyot$/Fiot/
+    - derive/^Gya$/Fja/
+    - derive/^Gyaik$/Fjaih/
+    - derive/^Gyak$/Fjah/
+    - derive/^Gyang$/Fjang/
+    - derive/^Gyek$/Fjerh/
+    - derive/^Gyet$/Fjert/
+    - derive/^Gyi$/Fji/
+    - derive/^Gyik$/Fjih/
+    - derive/^Gyin$/Fjin/
+    - derive/^Gyit$/Fjit/
+    - derive/^Gyiu$/Fju/
+    - derive/^Gyiuk$/Fjuh/
+    - derive/^Gyo$/Fjo/
+    - derive/^Gyok$/Fjoh/
+    - derive/^Gyong$/Fjong/
+    - derive/^Gyot$/Fjot/
     - derive/^Gyu$/Fy/
-    - derive/^Gyuek$/Fiuerh/
-    - derive/^Gyun$/Fiun/
-    - derive/^Gyung$/Fiung/
-    - derive/^Gyuok$/Fiuoh/
+    - derive/^Gyuek$/Fjuerh/
+    - derive/^Gyun$/Fjun/
+    - derive/^Gyung$/Fjung/
+    - derive/^Gyuok$/Fjuoh/
     - derive/^Gyuon$/Fyon/
     - derive/^Gyuot$/Fyot/
     - derive/^Gyut$/Fyt/
-    - derive/^Gyêk$/Fieh/
-    - derive/^Gyên$/Fien/
-    - derive/^Gyêt$/Fiet/
-    - derive/^Gyêu$/Fieu/
+    - derive/^Gyêk$/Fjeh/
+    - derive/^Gyên$/Fjen/
+    - derive/^Gyêt$/Fjet/
+    - derive/^Gyêu$/Fjeu/
     - derive/^Gza$/Ftsa/
     - derive/^Gzai$/Ftsai/
     - derive/^Gzaik$/Ftsaih/
