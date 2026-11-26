@@ -1,7 +1,7 @@
 schema:
   schema_id: konny_sinyi_II_both_norel_nowenbai
   name: sinyi
-  version: "1.3.3"
+  version: "1.3.6"
 translator:
   dictionary: gannyu_sinyi
   prism: konny_sinyi_II_nowenbai
@@ -881,10 +881,10 @@ speller:
     - derive/^Ghang$/Fhang/
     - derive/^Ghat$/Fhat/
     - derive/^Ghau$/Fhau/
-    - derive/^Gheoi$/Fheoi/
     - derive/^Ghion$/Fhion/
     - derive/^Gho$/Fho/
     - derive/^Ghoe$/Fhoe/
+    - derive/^Ghoei$/Fhoei/
     - derive/^Ghoek$/Fhoeh/
     - derive/^Ghoen$/Fhoen/
     - derive/^Ghoi$/Fhoi/
@@ -1166,7 +1166,6 @@ speller:
     - derive/^Gsau$/Fsau/
     - derive/^Gsek$/Fserh/
     - derive/^Gsen$/Fsirn/
-    - derive/^Gseoi$/Fseoi/
     - derive/^Gset$/Fsirt/
     - derive/^Gseu$/Fsiru/
     - derive/^Gsi$/Fsi/
@@ -1181,6 +1180,7 @@ speller:
     - derive/^Gsiên$/Fsien/
     - derive/^Gsiêt$/Fsiet/
     - derive/^Gso$/Fso/
+    - derive/^Gsoei$/Fsoei/
     - derive/^Gsoi$/Fsoi/
     - derive/^Gsok$/Fsoh/
     - derive/^Gsong$/Fsong/
@@ -1302,6 +1302,7 @@ speller:
     - derive/^Gyiuk$/Fjuh/
     - derive/^Gyo$/Fjo/
     - derive/^Gyok$/Fjoh/
+    - derive/^Gyon$/Fjon/
     - derive/^Gyong$/Fjong/
     - derive/^Gyot$/Fjot/
     - derive/^Gyu$/Fy/

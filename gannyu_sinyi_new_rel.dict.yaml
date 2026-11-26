@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_sinyi_new_rel
-version: "1.3.3"
+version: "1.3.6"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -869,6 +869,20 @@ use_preset_vocabulary: false
 人	Glin	120000
 人	Gnin	120000
 人	ren	120000
+人和	Glen Gwo	100000
+人和	Glen he	100000
+人和	Wnin Gwo	100000
+人和	ren Gwo	100000
+人和	ren he	100000
+人和乡	Glen Gwo Gxiong	100000
+人和乡	Glen Gwo xiang	100000
+人和乡	Glen he Gxiong	100000
+人和乡	Glen he xiang	100000
+人和乡	Wnin Gwo Gxiong	100000
+人和乡	ren Gwo Gxiong	100000
+人和乡	ren Gwo xiang	100000
+人和乡	ren he Gxiong	100000
+人和乡	ren he xiang	100000
 人家	Gnin Gga	125200
 人家	Gnin jia	125200
 人家	Wlen Gga	125200
@@ -954,6 +968,30 @@ use_preset_vocabulary: false
 付	Gfu	120000
 仙	Gsên	120000
 仙	xian	120000
+仙来	Gsên Glai	100000
+仙来	Gsên Gloi	100000
+仙来	xian Glai	100000
+仙来	xian lai	100000
+仙来办事处	Gsên Glai Gpan Gsï Gcï	100000
+仙来办事处	Gsên Glai Gpan Gsï chu	100000
+仙来办事处	Gsên Glai Gpan Gxi Gcï	100000
+仙来办事处	Gsên Glai Gpan shi Gcï	100000
+仙来办事处	Gsên Glai Gpan shi chu	100000
+仙来办事处	Gsên Glai ban Gsï Gcï	100000
+仙来办事处	Gsên Glai ban Gsï chu	100000
+仙来办事处	Gsên Glai ban shi Gcï	100000
+仙来办事处	Gsên Glai ban shi chu	100000
+仙来办事处	Gsên Gloi Gpan Gsï Gcï	100000
+仙来办事处	Gsên Gloi Gpan Gxi Gcï	100000
+仙来办事处	xian Glai Gpan Gsï Gcï	100000
+仙来办事处	xian Glai Gpan Gsï chu	100000
+仙来办事处	xian Glai Gpan shi Gcï	100000
+仙来办事处	xian Glai Gpan shi chu	100000
+仙来办事处	xian Glai ban Gsï Gcï	100000
+仙来办事处	xian Glai ban Gsï chu	100000
+仙来办事处	xian Glai ban shi Gcï	100000
+仙来办事处	xian Glai ban shi chu	100000
+仙来办事处	xian lai ban shi chu	100000
 代	Gtoi	200000
 代	dai	200000
 令	Glin	175000
@@ -2727,6 +2765,7 @@ use_preset_vocabulary: false
 吉安	Gjit an	123962
 吉安	ji Gngon	123962
 吉安	ji an	123962
+吉水	Gjit Gsoi	120000
 吉水	Gjit Gsui	120000
 吉水	Gjit shui	120000
 吉水	ji Gsui	120000
@@ -3218,6 +3257,7 @@ use_preset_vocabulary: false
 喜欢	xi huan	129000
 喝	Ghot	135000
 喝	he	135000
+喝水	Ghot Gsoi	125000
 喝水	Ghot Gsui	125000
 喝水	Ghot shui	125000
 喝水	he Gsui	125000
@@ -3280,6 +3320,7 @@ use_preset_vocabulary: false
 喫吥哩	chi Gbo Gli	127285
 喫吥哩	chi fou Gli	127285
 喫吥哩	chi fou li	127285
+喫水	Gqiak Gsoi	125000
 喫水	Gqiak Gsui	125000
 喫水	Gqiak shui	125000
 喫水	chi Gsui	125000
@@ -3485,6 +3526,8 @@ use_preset_vocabulary: false
 在	Gqiai	200000
 在	Gqioi	200000
 在	zai	200000
+圩	Gxi	100000
+圩	wei	100000
 圭	Ggui	120000
 地	Gti	200000
 地	di	200000
@@ -3511,6 +3554,8 @@ use_preset_vocabulary: false
 址	zhi	120000
 均	Gjiun	155000
 均	jun	155000
+坊	Gfong	100000
+坊	fang	100000
 坎	Gkon	120000
 坎	kan	120000
 坏	Gfai	120000
@@ -6895,6 +6940,7 @@ use_preset_vocabulary: false
 断掉了	duan diao le	120000
 斯	Gsï	145000
 斯	si	145000
+新	Gsen	100000
 新	Gsin	200000
 新	xin	200000
 新余	Gsin Gyi	124746
@@ -6905,6 +6951,26 @@ use_preset_vocabulary: false
 新妇	Gsin fu	125479
 新妇	xin Gwu	125479
 新妇	xin fu	125479
+新钢	Gsen Ggong	100000
+新钢	Gsen gang	100000
+新钢	xin Ggong	100000
+新钢	xin gang	100000
+新钢街道	Gsen Ggong Ggai Gtau	100000
+新钢街道	Gsen Ggong Ggai dao	100000
+新钢街道	Gsen Ggong jie Gtau	100000
+新钢街道	Gsen Ggong jie dao	100000
+新钢街道	Gsen gang Ggai Gtau	100000
+新钢街道	Gsen gang Ggai dao	100000
+新钢街道	Gsen gang jie Gtau	100000
+新钢街道	Gsen gang jie dao	100000
+新钢街道	xin Ggong Ggai Gtau	100000
+新钢街道	xin Ggong Ggai dao	100000
+新钢街道	xin Ggong jie Gtau	100000
+新钢街道	xin Ggong jie dao	100000
+新钢街道	xin gang Ggai Gtau	100000
+新钢街道	xin gang Ggai dao	100000
+新钢街道	xin gang jie Gtau	100000
+新钢街道	xin gang jie dao	100000
 方	Gfong	200000
 方	fang	200000
 方便	Gfong Gpiên	125000
@@ -7193,8 +7259,8 @@ use_preset_vocabulary: false
 暂	zan	120000
 暇	Gha	120000
 暇	xia	120000
-暑	Gheoi	150000
-暑	Gseoi	150000
+暑	Ghoei	150000
+暑	Gsoei	150000
 暑	Gsï	150000
 暑	shu	150000
 暖	Glong	120000
@@ -7959,6 +8025,15 @@ use_preset_vocabulary: false
 欣赏	xin shang	129000
 欧	Gngêu	145000
 欧	ou	145000
+欧里	Gngêu Gli	100000
+欧里	ou Gli	100000
+欧里	ou li	100000
+欧里镇	Gngêu Gli Gden	100000
+欧里镇	Gngêu Gli Gdin	100000
+欧里镇	Gngêu Gli zhen	100000
+欧里镇	ou Gli Gden	100000
+欧里镇	ou Gli zhen	100000
+欧里镇	ou li zhen	100000
 欲	Gyiuk	120000
 欲	yu	120000
 欺	Gqi	120000
@@ -8216,9 +8291,24 @@ use_preset_vocabulary: false
 氢	qing	120000
 氧	Gyong	120000
 氧	yang	120000
-水	Gheoi	200000
+水	Ghoei	200000
+水	Gsoi	100000
 水	Gsui	200000
 水	shui	200000
+水北	Ghoei Gbêk	100000
+水北	Ghoei bei	100000
+水北	shui Gbêk	100000
+水北	shui bei	100000
+水北镇	Ghoei Gbêk Gden	100000
+水北镇	Ghoei Gbêk Gdin	100000
+水北镇	Ghoei Gbêk zhen	100000
+水北镇	Ghoei bei Gdin	100000
+水北镇	Ghoei bei zhen	100000
+水北镇	shui Gbêk Gdin	100000
+水北镇	shui Gbêk zhen	100000
+水北镇	shui bei Gdin	100000
+水北镇	shui bei zhen	100000
+水开了	Gsoi Gkoi Gliêu	100000
 水开了	Gsui Gkoi Gliêu	100000
 水开了	Gsui Gkoi le	100000
 水开了	Gsui kai Gliêu	100000
@@ -8227,16 +8317,28 @@ use_preset_vocabulary: false
 水开了	shui Gkoi le	100000
 水开了	shui kai Gliêu	100000
 水开了	shui kai le	100000
+水泡哩	Gsoi Gpau Gli	100000
 水泡哩	Gsui Gpau Gli	100000
 水泡哩	Gsui pao Gli	100000
 水泡哩	shui Gpau Gli	100000
 水泡哩	shui pao Gli	100000
 水泡哩	shui pao li	100000
+水流声	Gsoi Gliu Gsen	100000
 水流声	Gsui Gliu Gsen	100000
 水流声	Gsui Gliu sheng	100000
 水流声	shui Gliu Gsen	100000
 水流声	shui Gliu sheng	100000
 水流声	shui liu sheng	100000
+水西	Gsoi Gxi	100000
+水西	Gsui Gxi	100000
+水西	shui Gxi	100000
+水西	shui xi	100000
+水西镇	Gsoi Gxi Gjin	100000
+水西镇	Gsoi Gxi zhen	100000
+水西镇	Gsui Gxi Gjin	100000
+水西镇	shui Gxi Gjin	100000
+水西镇	shui Gxi zhen	100000
+水西镇	shui xi zhen	100000
 永	Gyun	120000
 永	yong	120000
 汁	Gdek	120000
@@ -8379,6 +8481,19 @@ use_preset_vocabulary: false
 沫	mo	120000
 河	Gho	145000
 河	he	145000
+河下	Gho Gha	100000
+河下	Gho xia	100000
+河下	he Gha	100000
+河下	he xia	100000
+河下镇	Gho Gha Gden	100000
+河下镇	Gho Gha Gdin	100000
+河下镇	Gho Gha zhen	100000
+河下镇	Gho xia Gden	100000
+河下镇	Gho xia zhen	100000
+河下镇	he Gha Gden	100000
+河下镇	he Gha zhen	100000
+河下镇	he xia Gden	100000
+河下镇	he xia zhen	100000
 油	Gyiu	145000
 油	you	145000
 油布	Gyiu Gbu	124500
@@ -8434,6 +8549,12 @@ use_preset_vocabulary: false
 泔	gan	71615
 法	Gfat	120000
 法	fa	120000
+泗	Gsï	100000
+泗	si	100000
+泗溪	Gsï Gqi	100000
+泗溪	Gsï xi	100000
+泗溪	si Gqi	100000
+泗溪	si xi	100000
 泛	Gfan	155293
 泛	Gwan	155293
 泛	fan	155293
@@ -10122,7 +10243,7 @@ use_preset_vocabulary: false
 睛	Gjiang	120000
 睛	Gjin	120000
 睛	jing	120000
-睡	Gheoi	120000
+睡	Ghoei	120000
 睡	Gsuei	120000
 睡	Gsuoi	120000
 睡	shui	120000
@@ -10447,7 +10568,7 @@ use_preset_vocabulary: false
 程	cheng	120000
 稍	Gsau	120000
 稍	shao	120000
-税	Gheoi	200000
+税	Ghoei	200000
 税	Gsuei	200000
 税	shui	200000
 稗	Gpa	90000
@@ -11382,6 +11503,19 @@ use_preset_vocabulary: false
 罕	han	103940
 罗	Glo	175000
 罗	luo	175000
+罗坊	Glo Gfong	100000
+罗坊	Glo fang	100000
+罗坊	luo Gfong	100000
+罗坊	luo fang	100000
+罗坊镇	Glo Gfong Gden	100000
+罗坊镇	Glo Gfong Gdin	100000
+罗坊镇	Glo Gfong zhen	100000
+罗坊镇	Glo fang Gden	100000
+罗坊镇	Glo fang zhen	100000
+罗坊镇	luo Gfong Gden	100000
+罗坊镇	luo Gfong zhen	100000
+罗坊镇	luo fang Gden	100000
+罗坊镇	luo fang zhen	100000
 罚	Gfat	150000
 罚	fa	150000
 罢	Gba	120000
@@ -12819,8 +12953,29 @@ use_preset_vocabulary: false
 衰	Gsoi	120000
 衰	Gsuoi	120000
 衰	shuai	120000
+袁	Gyon	100000
 袁	Gyuon	120000
 袁	yuan	120000
+袁河	Gyon Gho	100000
+袁河	Gyon he	100000
+袁河	yuan Gho	100000
+袁河	yuan he	100000
+袁河街道	Gyon Gho Ggai Gtau	100000
+袁河街道	Gyon Gho Ggai dao	100000
+袁河街道	Gyon Gho jie Gtau	100000
+袁河街道	Gyon Gho jie dao	100000
+袁河街道	Gyon he Ggai Gtau	100000
+袁河街道	Gyon he Ggai dao	100000
+袁河街道	Gyon he jie Gtau	100000
+袁河街道	Gyon he jie dao	100000
+袁河街道	yuan Gho Ggai Gtau	100000
+袁河街道	yuan Gho Ggai dao	100000
+袁河街道	yuan Gho jie Gtau	100000
+袁河街道	yuan Gho jie dao	100000
+袁河街道	yuan he Ggai Gtau	100000
+袁河街道	yuan he Ggai dao	100000
+袁河街道	yuan he jie Gtau	100000
+袁河街道	yuan he jie dao	100000
 袂	Ggat	120000
 袂	mei	120000
 袄	Gngau	120000
@@ -12978,6 +13133,19 @@ use_preset_vocabulary: false
 见	jian	200000
 观	Gguon	145000
 观	guan	145000
+观巢	Gguon Gcau	100000
+观巢	Gguon chao	100000
+观巢	guan Gcau	100000
+观巢	guan chao	100000
+观巢镇	Gguon Gcau Gden	100000
+观巢镇	Gguon Gcau Gdin	100000
+观巢镇	Gguon Gcau zhen	100000
+观巢镇	Gguon chao Gden	100000
+观巢镇	Gguon chao zhen	100000
+观巢镇	guan Gcau Gden	100000
+观巢镇	guan Gcau zhen	100000
+观巢镇	guan chao Gden	100000
+观巢镇	guan chao zhen	100000
 规	Ggui	145000
 觅	Gmiek	120000
 觅	Gmit	120000
@@ -15102,6 +15270,7 @@ use_preset_vocabulary: false
 镀	Gtu	120000
 镀	du	120000
 镇	Gden	120000
+镇	Gdin	100000
 镇	Gjin	120000
 镇	zhen	120000
 镊	Gniêt	120000
@@ -15890,8 +16059,21 @@ use_preset_vocabulary: false
 鸿	Gfung	120000
 鸿	Gwung	120000
 鸿	hong	120000
-鹄	Gfu	120000
+鹄	Gfuk	120000
 鹄	hu	120000
+鹄山	Gfuk Gsan	100000
+鹄山	Gfuk shan	100000
+鹄山	hu Gsan	100000
+鹄山	hu shan	100000
+鹄山镇	Gfuk Gsan Gden	100000
+鹄山镇	Gfuk Gsan Gdin	100000
+鹄山镇	Gfuk Gsan zhen	100000
+鹄山镇	Gfuk shan Gdin	100000
+鹄山镇	Gfuk shan zhen	100000
+鹄山镇	hu Gsan Gdin	100000
+鹄山镇	hu Gsan zhen	100000
+鹄山镇	hu shan Gdin	100000
+鹄山镇	hu shan zhen	100000
 鹅	Gngai	120000
 鹅	Gngo	120000
 鹅	e	120000
@@ -15980,7 +16162,7 @@ use_preset_vocabulary: false
 鼎	ding	120000
 鼓	Ggu	120000
 鼠	Ghoek	130000
-鼠	Gseoi	120000
+鼠	Gsoei	120000
 鼠	Gxyuk	100000
 鼠	shu	130000
 鼻	Gpiek	120000
